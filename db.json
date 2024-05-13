@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "Categoria1":[{
+  "Categoria1":{
    "response_code": 0,
    "results": [
       {
@@ -72,5 +72,5 @@
          ]
       }
    ]
-}]
+}
 }
