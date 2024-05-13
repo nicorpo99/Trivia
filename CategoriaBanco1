@@ -1,0 +1,65 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco1",
+        "question": "pregunta1?",
+        "correct_answer": "respuesta correcta",
+        "incorrect_answers": [
+          "incorrecta",
+          "incorrecta",
+          "incorrecta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco1",
+        "question": "pregunta2?",
+        "correct_answer": "respuesta correcta",
+        "incorrect_answers": [
+          "incorrecta",
+          "incorrecta",
+          "incorrecta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco1",
+        "question": "pregunta3?",
+        "correct_answer": "respuesta correcta",
+        "incorrect_answers": [
+          "incorrecta",
+          "incorrecta",
+          "incorrecta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco1",
+        "question": "pregunta4?",
+        "correct_answer": "respuesta correcta",
+        "incorrect_answers": [
+          "incorrecta",
+          "incorrecta",
+          "incorrecta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco1",
+        "question": "pregunta5?",
+        "correct_answer": "respuesta correcta",
+        "incorrect_answers": [
+          "incorrecta",
+          "incorrecta",
+          "incorrecta"
+        ]
+      }
+    ]
+  }
