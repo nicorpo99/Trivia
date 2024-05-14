@@ -8,6 +8,7 @@
   "profile": {
     "name": "typicode"
   },
+  
   "Categoria1":{
    "response_code": 0,
    "results": [
@@ -72,7 +73,7 @@
          ]
       }
    ]
-  };
+},
     "Categoria2":{
    "response_code": 2,
    "results": [
