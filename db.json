@@ -199,12 +199,12 @@
    ]
   },
   "Categoria4":{
-   "response_code": 3,
+   "response_code": 4,
    "results": [
            {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "CategoriaBanco3",
+         "category": "CategoriaBanco4",
          "question": "pregunta1?",
          "correct_answer": "respuesta correcta",
          "incorrect_answers": [
@@ -216,7 +216,7 @@
         {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "CategoriaBanco3",
+         "category": "CategoriaBanco4",
          "question": "pregunta2?",
          "correct_answer": "respuesta correcta",
          "incorrect_answers": [
@@ -228,7 +228,7 @@
         {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "CategoriaBanco3",
+         "category": "CategoriaBanco4",
          "question": "pregunta3?",
          "correct_answer": "respuesta correcta",
          "incorrect_answers": [
@@ -240,7 +240,7 @@
         {
          "type": "boolean",
          "difficulty": "easy",
-         "category": "CategoriaBanco3",
+         "category": "CategoriaBanco4",
          "question": "pregunta4?",
          "correct_answer": "False",
          "incorrect_answers": [
@@ -250,7 +250,70 @@
         {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "CategoriaBanco3",
+         "category": "CategoriaBanco4",
+         "question": "pregunta5?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      }
+   ]
+  },
+  "Categoria5":{
+   "response_code": 5,
+   "results": [
+           {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco5",
+         "question": "pregunta1?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+        {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco5",
+         "question": "pregunta2?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+        {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco5",
+         "question": "pregunta3?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+        {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco5",
+         "question": "pregunta4?",
+         "correct_answer": "False",
+         "incorrect_answers": [
+            "True"
+         ]
+      },
+        {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco5",
          "question": "pregunta5?",
          "correct_answer": "respuesta correcta",
          "incorrect_answers": [
