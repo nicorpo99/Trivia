@@ -16,12 +16,12 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "pregunta1?",
-         "correct_answer": "respuesta correcta",
+         "question": "En que año nacio el banco?",
+         "correct_answer": "1989",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "234",
+            "4654",
+            "34555"
          ]
       },
       {
