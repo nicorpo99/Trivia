@@ -210,15 +210,13 @@
    "response_code": 2,
    "results": [
         {
-         "type": "multiple",
+         "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
-         "question": "pregunta2?",
-         "correct_answer": "respuesta correcta",
+         "question": "¿El Kit de Marca hace parte de las guías para alinear tu rol como comunicador de la organización?",
+         "correct_answer": "True",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "False"
          ]
       },
         {
