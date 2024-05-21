@@ -208,24 +208,22 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco3",
-         "question": "pregunta2?",
-         "correct_answer": "respuesta correcta",
+         "question": "¿Cuál es uno de los componentes estratégicos de La Comu?",
+         "correct_answer": "Medición de riesgo con impacto reputacional",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "Diseño gráfico",
+            "Creación Audiovisual",
+            "Diseño web"
          ]
       },
         {
-         "type": "multiple",
+         "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco3",
-         "question": "pregunta5?",
-         "correct_answer": "respuesta correcta",
+         "question": "Uno de los componentes técnicos de La Comu es el Diseño Gráfico.",
+         "correct_answer": "True",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "False"
          ]
       }
    ]
