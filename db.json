@@ -38,7 +38,7 @@
          "type": "boolean",
          "difficulty": "half",
          "category": "CategoriaBanco1",
-         "question": "Bancolombia es el banco más grande de Colombia en términos de activos.",
+         "question": "Bancolombia es el banco más grande de Colombia en términos de activos",
          "correct_answer": "true",
          "incorrect_answers": [
              "False"
@@ -185,7 +185,7 @@
          "difficulty": "easy",
          "category": "CategoriaBanco3",
          "question": "¿Cuál de los siguientes no es un requisito para hacer parte de La Comu?",
-         "correct_answer": "Exclusividad de participación en eventos internos de Bancolombia.",
+         "correct_answer": "Exclusividad de participación en eventos internos de Bancolombia",
          "incorrect_answers": [
             "Disponibilidad y compromiso",
             "Crítica constructiva",
