@@ -196,7 +196,7 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "CategoriaBanco3",
-        "question": "¿Qué componente de "La Comu" se centra en la Gestión del Cambio?",
+        "question": "¿Qué componente de La Comu se centra en la Gestión del Cambio?",
         "correct_answer": "Liderazgo y facilitación de equipos",
         "incorrect_answers": [
            "Diseño gráfico",
