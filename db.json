@@ -239,16 +239,6 @@
             "False"
          ]
       },
-      {
-         "type": "boolean",
-         "difficulty": "easy",
-         "category": "CategoriaBanco2",
-         "question": "El Grupo Bancolombia está comprometido con el bienestar",
-         "correct_answer": "True",
-         "incorrect_answers": [
-            "False"
-         ]
-      },
      {
          "type": "multiple",
          "difficulty": "easy",
