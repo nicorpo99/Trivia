@@ -157,30 +157,6 @@
             "Citibank",
             "Bank of America"
          ]
-      },
-     {
-         "type": "multiple",
-         "difficulty": "difficult",
-         "category": "CategoriaBanco1",
-         "question": "¿Qué evento financiero importante ocurrió en la historia de Bancolombia en 1998?",
-         "correct_answer": "La adquisición de Banco de Colombia",
-         "incorrect_answers": [
-            "La fusión con Conavi",
-            "La apertura de su primera sucursal internacional",
-            "La crisis financiera que afectó al banco"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "difficult",
-         "category": "CategoriaBanco1",
-         "question": "¿Cuál es el propósito principal de la Fundación Grupo Bancolombia?",
-         "correct_answer": "Enfocar esfuerzos en el desarrollo del campo colombiano para transformarlo en el motor del desarrollo sostenible del país.",
-         "incorrect_answers": [
-            "Apoyar la educación urbana para el desarrollo sostenible de Colombia.",
-            "Impulsar el crecimiento industrial en las principales ciudades del país.",
-            "Promover la inversión extranjera en proyectos tecnológicos urbanos."
-         ]
       }
    ]
 },
