@@ -68,7 +68,7 @@
       },
           {
          "type": "boolean",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "Bancolombia tiene más de 10 millones de clientes en Colombia.",
          "correct_answer": "true",
@@ -78,7 +78,7 @@
       },
       {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "¿Cuál es la fecha de fundación del Grupo Bancolombia?",
          "correct_answer": "24 de enero de 1945",
@@ -90,7 +90,7 @@
       },
      {
          "type": "boolean",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "Bancolombia es el banco más grande de Colombia en términos de activos.",
          "correct_answer": "true",
@@ -100,7 +100,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "¿Cuál es uno de los principales objetivos estratégicos de Bancolombia en los últimos años?",
          "correct_answer": "Innovación digital y transformación tecnológica",
@@ -112,7 +112,7 @@
       },
      {
          "type": "boolean",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "Bancolombia tiene un programa de educación financiera para sus clientes.",
          "correct_answer": "true",
@@ -122,7 +122,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "¿Cuál de las siguientes es una subsidiaria de Bancolombia?",
          "correct_answer": "Bancolombia Panamá",
@@ -134,7 +134,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "¿En qué año Bancolombia adoptó su nombre actual?",
          "correct_answer": "1998",
@@ -146,7 +146,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco1",
          "question": "¿Cuál fue el nombre original de Bancolombia cuando se fundó?",
          "correct_answer": "Banco Industrial Colombiano",
@@ -158,7 +158,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco1",
          "question": "¿En qué año Bancolombia se fusionó con Conavi y Corfinsura?",
          "correct_answer": "2005",
@@ -170,7 +170,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco1",
          "question": "¿Qué banco estadounidense adquirió una participación en Bancolombia en 2007?",
          "correct_answer": "JPMorgan Chase",
@@ -182,7 +182,7 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco1",
          "question": "¿Qué evento financiero importante ocurrió en la historia de Bancolombia en 1998?",
          "correct_answer": "La adquisición de Banco de Colombia",
@@ -194,7 +194,7 @@
       },
       {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco1",
          "question": "¿Cuál es el propósito principal de la Fundación Grupo Bancolombia?",
          "correct_answer": "Enfocar esfuerzos en el desarrollo del campo colombiano para transformarlo en el motor del desarrollo sostenible del país.",
