@@ -250,6 +250,18 @@
          "incorrect_answers": [
             "False"
          ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "pregunta5?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
       }
    ]
   },
