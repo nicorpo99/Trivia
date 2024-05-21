@@ -181,6 +181,18 @@
          ]
       },
      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "CategoriaBanco3",
+        "question": "¿Cuál de los siguientes no es un requisito para hacer parte de La Comu?",
+        "correct_answer": "Exclusividad de participación en eventos internos de Bancolombia",
+        "incorrect_answers": [
+           "Disponibilidad y compromiso",
+           "Crítica constructiva",
+           "Corresponsabilidad"
+        ]
+     },
+     {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco3",
