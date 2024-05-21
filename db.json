@@ -211,12 +211,12 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
-         "question": "pregunta4?",
-         "correct_answer": "respuesta correcta",
+         "question": "Es una marca no Bancaria y Financiera del Grupo Bancolombia:",
+         "correct_answer": "Renting Colombia",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "Nequi",
+            "Banistmo",
+            "Bam"
          ]
       },
      {
