@@ -96,16 +96,6 @@
          ]
       },
         {
-         "type": "boolean",
-         "difficulty": "easy",
-         "category": "CategoriaBanco2",
-         "question": "El Grupo Bancolombia está comprometido con el bienestar",
-         "correct_answer": "True",
-         "incorrect_answers": [
-            "False"
-         ]
-      },
-        {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
@@ -117,11 +107,11 @@
             "Bam"
          ]
       },
-     {
+       {
          "type": "boolean",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco2",
-         "question": "Los clientes de Bancolombia podrán pagar en comercios de todo el país acercando su celular al datáfono.",
+         "question": "El Grupo Bancolombia tiene un programa llamado Becas Fundación Grupo Bancolombia",
          "correct_answer": "True",
          "incorrect_answers": [
             "False"
@@ -129,24 +119,38 @@
       },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "half",
          "category": "CategoriaBanco2",
-         "question": "Es una marca Bancaria Regional del Grupo Bancolombia:",
-         "correct_answer": "Nequi",
+         "question": "¿Cuál es la cifra aproximada de clientes que tiene el Grupo Bancolombia?",
+         "correct_answer": "Más de 29 millones",
          "incorrect_answers": [
-            "Sufi",
-            "Wenia",
-            "Bam"
+            "Más de 15 millones",
+            "Más de 20 millones",
+            "Más de 35 millones"
          ]
       },
      {
-         "type": "boolean",
-         "difficulty": "easy",
+         "type": "multiple",
+         "difficulty": "difficult",
          "category": "CategoriaBanco2",
-         "question": "El Grupo Bancolombia tiene un programa llamado Becas Fundación Grupo Bancolombia",
-         "correct_answer": "True",
+         "question": "¿Cuál es el monto de activos reportado por el Grupo Bancolombia?",
+         "correct_answer": "COP 338 billones",
          "incorrect_answers": [
-            "False"
+            "COP 250 billones",
+            "COP 400 billones",
+            "COP 500 billones"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "difficult",
+         "category": "CategoriaBanco2",
+         "question": "¿Cuál es el número aproximado de transacciones digitales realizadas por el Grupo Bancolombia?",
+         "correct_answer": "3,600 millones",
+         "incorrect_answers": [
+            "2,500 millones",
+            "3,000 millones",
+            "4,000 millones"
          ]
       }
    ]
