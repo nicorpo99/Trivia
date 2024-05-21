@@ -162,12 +162,22 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco3",
-         "question": "pregunta1?",
-         "correct_answer": "respuesta correcta",
+         "question": "¿Qué busca La Comu?",
+         "correct_answer": "Buscamos las mejores herramientas para generar conexiones",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "Buscamos brindar productos y servicios financieros en Colombia",
+            "Buscamos ofrecer créditos de financiación, tarjetas de crédito, inversiones",
+            "Buscamos promover el desarrollo económico sostenible"
+         ]
+      },
+          {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco3",
+         "question": "En la Comu nos gusta saber de tendencias, compartir el conocimiento y guiarnos de buenas prácticas",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
          ]
       },
         {
@@ -175,18 +185,6 @@
          "difficulty": "easy",
          "category": "CategoriaBanco3",
          "question": "pregunta2?",
-         "correct_answer": "respuesta correcta",
-         "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
-         ]
-      },
-        {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "CategoriaBanco3",
-         "question": "pregunta3?",
          "correct_answer": "respuesta correcta",
          "incorrect_answers": [
             "incorrecta",
