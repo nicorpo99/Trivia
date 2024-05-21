@@ -34,16 +34,6 @@
             "False"
          ]
       },
-     {
-         "type": "boolean",
-         "difficulty": "easy",
-         "category": "CategoriaBanco1",
-         "question": "Bancolombia ha sido reconocido por su enfoque en la sostenibilidad y la responsabilidad social.",
-         "correct_answer": "true",
-         "incorrect_answers": [
-             "False"
-         ]
-      },
       {
          "type": "multiple",
          "difficulty": "easy",
@@ -118,18 +108,6 @@
          "correct_answer": "true",
          "incorrect_answers": [
              "False"
-         ]
-      },
-     {
-         "type": "multiple",
-         "difficulty": "half",
-         "category": "CategoriaBanco1",
-         "question": "¿Cuál de las siguientes es una subsidiaria de Bancolombia?",
-         "correct_answer": "Bancolombia Panamá",
-         "incorrect_answers": [
-            "Banco Santander",
-            "Banco de Chile",
-            "BBVA Colombia"
          ]
       },
      {
