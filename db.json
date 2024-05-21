@@ -245,16 +245,6 @@
          "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
-         "question": "Nuestro propósito está en dos ejes fundamentales alrededor de los cuales giramos: La innovación rural y El desarrollo sostenible para la ruralidad",
-         "correct_answer": "True",
-         "incorrect_answers": [
-            "False"
-         ]
-      },
-     {
-         "type": "boolean",
-         "difficulty": "easy",
-         "category": "CategoriaBanco2",
          "question": "El Grupo Bancolombia tiene un programa llamado Becas Fundación Grupo Bancolombia",
          "correct_answer": "True",
          "incorrect_answers": [
