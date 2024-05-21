@@ -16,58 +16,192 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "En que año nacio el banco?",
-         "correct_answer": "1989",
+         "question": "¿Quién fue el presidente de Bancolombia en el año 2020?",
+         "correct_answer": "Juan Carlos Mora Uribe",
          "incorrect_answers": [
-            "234",
-            "4654",
-            "34555"
+            "Luis Carlos Sarmiento Angulo",
+            "Alejandro Figueroa Jaramillo",
+            "David Bojanini"
          ]
       },
       {
          "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "pregunta2?",
+         "question": "Bancolombia tiene operaciones en otros países de América Latina",
          "correct_answer": "True",
          "incorrect_answers": [
             "False"
          ]
       },
-      {
-         "type": "multiple",
+     {
+         "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "pregunta3?",
-         "correct_answer": "respuesta correcta",
+         "question": "Bancolombia ha sido reconocido por su enfoque en la sostenibilidad y la responsabilidad social.",
+         "correct_answer": "true",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+             "False"
          ]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "pregunta4?",
-         "correct_answer": "respuesta correcta",
+         "question": "¿En qué ciudad se encuentra la sede principal de Bancolombia?",
+         "correct_answer": "Medellín",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "Bogotá",
+            "Cali",
+            "Barranquilla"
+         ]
+      },
+          {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "Bancolombia cotiza en la Bolsa de Valores de Nueva York.",
+         "correct_answer": "true",
+         "incorrect_answers": [
+             "False"
+         ]
+      },
+          {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "Bancolombia tiene más de 10 millones de clientes en Colombia.",
+         "correct_answer": "true",
+         "incorrect_answers": [
+             "False"
          ]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "pregunta5?",
-         "correct_answer": "respuesta correcta",
+         "question": "¿Cuál es la fecha de fundación del Grupo Bancolombia?",
+         "correct_answer": "24 de enero de 1945",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "28 de enero de 1944",
+            "15 de abril de 1970",
+            "20 de abril de 1971"
+         ]
+      },
+     {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "Bancolombia es el banco más grande de Colombia en términos de activos.",
+         "correct_answer": "true",
+         "incorrect_answers": [
+             "False"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Cuál es uno de los principales objetivos estratégicos de Bancolombia en los últimos años?",
+         "correct_answer": "Innovación digital y transformación tecnológica",
+         "incorrect_answers": [
+            "Expansión en Europa",
+            "Adquisición de bancos pequeños en Asia",
+            "Reducción de su presencia en América Latina"
+         ]
+      },
+     {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "Bancolombia tiene un programa de educación financiera para sus clientes.",
+         "correct_answer": "true",
+         "incorrect_answers": [
+             "False"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Cuál de las siguientes es una subsidiaria de Bancolombia?",
+         "correct_answer": "Bancolombia Panamá",
+         "incorrect_answers": [
+            "Banco Santander",
+            "Banco de Chile",
+            "BBVA Colombia"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿En qué año Bancolombia adoptó su nombre actual?",
+         "correct_answer": "1998",
+         "incorrect_answers": [
+            "2002",
+            "1996",
+            "2000"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Cuál fue el nombre original de Bancolombia cuando se fundó?",
+         "correct_answer": "Banco Industrial Colombiano",
+         "incorrect_answers": [
+            "Banco de Colombia",
+            "Banco Internacional",
+            "Banco de Bogotá"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿En qué año Bancolombia se fusionó con Conavi y Corfinsura?",
+         "correct_answer": "2005",
+         "incorrect_answers": [
+            "2000",
+            "2010",
+            "2015"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Qué banco estadounidense adquirió una participación en Bancolombia en 2007?",
+         "correct_answer": "JPMorgan Chase",
+         "incorrect_answers": [
+            "Goldman Sachs",
+            "Citibank",
+            "Bank of America"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Qué evento financiero importante ocurrió en la historia de Bancolombia en 1998?",
+         "correct_answer": "La adquisición de Banco de Colombia",
+         "incorrect_answers": [
+            "La fusión con Conavi",
+            "La apertura de su primera sucursal internacional",
+            "La crisis financiera que afectó al banco"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco1",
+         "question": "¿Cuál es el propósito principal de la Fundación Grupo Bancolombia?",
+         "correct_answer": "Enfocar esfuerzos en el desarrollo del campo colombiano para transformarlo en el motor del desarrollo sostenible del país.",
+         "incorrect_answers": [
+            "Apoyar la educación urbana para el desarrollo sostenible de Colombia.",
+            "Impulsar el crecimiento industrial en las principales ciudades del país.",
+            "Promover la inversión extranjera en proyectos tecnológicos urbanos."
          ]
       }
    ]
