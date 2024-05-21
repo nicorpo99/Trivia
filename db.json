@@ -201,13 +201,79 @@
          "type": "boolean",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
-         "question": "pregunta3?",
-         "correct_answer": "False",
+         "question": "El Grupo Bancolombia está comprometido con el bienestar",
+         "correct_answer": "True",
          "incorrect_answers": [
-            "True"
+            "False"
          ]
       },
         {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "pregunta4?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+      {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "El Grupo Bancolombia está comprometido con el bienestar",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+      {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "El Grupo Bancolombia está comprometido con el bienestar",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+      {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "El Grupo Bancolombia está comprometido con el bienestar",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "pregunta4?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+     {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "pregunta4?",
+         "correct_answer": "respuesta correcta",
+         "incorrect_answers": [
+            "incorrecta",
+            "incorrecta",
+            "incorrecta"
+         ]
+      },
+     {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
