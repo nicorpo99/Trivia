@@ -220,15 +220,25 @@
          ]
       },
      {
+         "type": "boolean",
+         "difficulty": "easy",
+         "category": "CategoriaBanco2",
+         "question": "Los clientes de Bancolombia podrán pagar en comercios de todo el país acercando su celular al datáfono.",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+     {
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco2",
-         "question": "pregunta4?",
-         "correct_answer": "respuesta correcta",
+         "question": "Es una marca Bancaria Regional del Grupo Bancolombia:",
+         "correct_answer": "Nequi",
          "incorrect_answers": [
-            "incorrecta",
-            "incorrecta",
-            "incorrecta"
+            "Sufi",
+            "Wenia",
+            "Bam"
          ]
       },
         {
