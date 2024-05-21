@@ -182,7 +182,7 @@
       },
      {
         "type": "multiple",
-        "difficulty": "easy",
+        "difficulty": "half",
         "category": "CategoriaBanco3",
         "question": "¿Cuál de los siguientes no es un requisito para hacer parte de La Comu?",
         "correct_answer": "Exclusividad de participación en eventos internos de Bancolombia",
@@ -194,7 +194,7 @@
      },
      {
         "type": "multiple",
-        "difficulty": "easy",
+        "difficulty": "half",
         "category": "CategoriaBanco3",
         "question": "¿Qué componente de La Comu se centra en la Gestión del Cambio?",
         "correct_answer": "Liderazgo y facilitación de equipos",
@@ -206,7 +206,7 @@
      },
      {
          "type": "multiple",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco3",
          "question": "¿Cuál es uno de los componentes estratégicos de La Comu?",
          "correct_answer": "Medición de riesgo con impacto reputacional",
@@ -218,7 +218,7 @@
       },
         {
          "type": "boolean",
-         "difficulty": "easy",
+         "difficulty": "difficult",
          "category": "CategoriaBanco3",
          "question": "Uno de los componentes técnicos de La Comu es el Diseño Gráfico.",
          "correct_answer": "True",
