@@ -29,9 +29,9 @@
          "difficulty": "easy",
          "category": "CategoriaBanco1",
          "question": "Bancolombia tiene operaciones en otros países de América Latina",
-         "correct_answer": "True",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-            "False"
+            "Falso"
          ]
       },
      {
@@ -39,9 +39,9 @@
          "difficulty": "half",
          "category": "CategoriaBanco1",
          "question": "Bancolombia es el banco más grande de Colombia en términos de activos",
-         "correct_answer": "true",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-             "False"
+             "Falso"
          ]
       },
      {
@@ -90,9 +90,9 @@
          "difficulty": "easy",
          "category": "CategoriaBanco2",
          "question": "¿El Kit de Marca hace parte de las guías para alinear tu rol como comunicador de la organización?",
-         "correct_answer": "True",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-            "False"
+            "Falso"
          ]
       },
         {
@@ -112,9 +112,9 @@
          "difficulty": "half",
          "category": "CategoriaBanco2",
          "question": "El Grupo Bancolombia tiene un programa llamado Becas Fundación Grupo Bancolombia",
-         "correct_answer": "True",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-            "False"
+            "Falso"
          ]
       },
      {
@@ -175,9 +175,9 @@
          "difficulty": "easy",
          "category": "CategoriaBanco3",
          "question": "En la Comu nos gusta saber de tendencias, compartir el conocimiento y guiarnos de buenas prácticas",
-         "correct_answer": "True",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-            "False"
+            "Falso"
          ]
       },
      {
@@ -221,9 +221,9 @@
          "difficulty": "difficult",
          "category": "CategoriaBanco3",
          "question": "Uno de los componentes técnicos de La Comu es el Diseño Gráfico.",
-         "correct_answer": "True",
+         "correct_answer": "Verdadero",
          "incorrect_answers": [
-            "False"
+            "Falso"
          ]
       }
    ]
