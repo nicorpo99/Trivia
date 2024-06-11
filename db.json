@@ -16,12 +16,12 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "CategoriaBanco1",
-         "question": "¿Quién fue el presidente de Bancolombia en el año 2020?",
-         "correct_answer": "Juan Carlos Mora Uribe",
+         "question": "¿En qué ciudad se encuentra la sede principal de Bancolombia?",
+         "correct_answer": "Medellín",
          "incorrect_answers": [
-            "Luis Carlos Sarmiento Angulo",
-            "Alejandro Figueroa Jaramillo",
-            "David Bojanini"
+            "Bogotá",
+            "Cali",
+            "Barranquilla"
          ]
       },
       {
@@ -82,7 +82,7 @@
       }
    ]
 },
-    "GeneralidadesBancolombia":{
+    "Marca":{
    "response_code": 2,
    "results": [
         {
@@ -155,7 +155,7 @@
       }
    ]
   },
-  "LaComu":{
+  "Ortografia":{
    "response_code": 3,
    "results": [
            {
